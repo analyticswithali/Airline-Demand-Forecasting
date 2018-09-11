@@ -2,7 +2,7 @@
 
 Minimize forecast errors by developing an advanced booking model using Python
 
-##[Airline Demand Forecasting Summary](https://rawgit.com/analyticswithali/Airline-Demand-Forecasting/master/Airline%20Demand%20Forecasting%20Summary.pdf)
+### [Airline Demand Forecasting Summary](https://rawgit.com/analyticswithali/Airline-Demand-Forecasting/master/Airline%20Demand%20Forecasting%20Summary.pdf)
 
 ## Steps to recreate Network optimization model
 1. Review the Demand-Forecasting problem [PDF file](https://rawgit.com/analyticswithali/Airline-Demand-Forecasting/master/Airline%20Demand%20Forecasting%20Summary.pdf)
